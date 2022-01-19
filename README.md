@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictorDesloges, a PhD Student
+- 👋 Hi, I’m @VictorDesloges, a PhD Student of the french doctoral school number 269
 - 👀 I’m interested in civil engineering, physical sciences and of course computer things
 - 🌱 I’m currently learning Fortran, Medit, GiD, and others stuffs
 - 💌 I’m looking to collaborate on the development of programs on the boundary element method
@@ -7,6 +7,12 @@
 - 🙇‍♂️ I'm curious, so I also have a master's degree in philosophy from the University Lyon 3 (ethics, ecology and sustainable development)
 - 👨‍🏫 I'm a teacher of physics-chemistry, continuum mechanics and numerical analysis at the INSA Strasbourg engineering school
 - 🚧 My thesis is about : "Study and modeling of cracking of asphalt concrete under dynamic loads using boundary elements method"
-- 📫 You can reach me at victor.desloges@insa-strasbourg.fr
+- 📫 You can reach me at : victor.desloges@insa-strasbourg.fr
+- 🇱 Here is my LinkedIn : 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+- ICube Laboratory : https://icube.unistra.fr/
+- ED269 MSII : http://ed.math-spi.unistra.fr/
+- INSA Strasbourg : https://www.insa-strasbourg.fr/fr/
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
