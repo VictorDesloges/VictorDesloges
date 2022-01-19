@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @VictorDesloges
-- 👀 I’m interested in civil engineering, physical and computational sciences
+- 👋 Hi, I’m @VictorDesloges, a PhD Student
+- 👀 I’m interested in civil engineering, physical sciences and of course computer things
 - 🌱 I’m currently learning Fortran, Medit, GiD, and others stuffs
-- 💞️ I’m looking to collaborate on the development of programs on the boundary element method
+- 💌 I’m looking to collaborate on the development of programs on the boundary element method
+- 💻 I'm currently working at the ICube Laboratory (UMR7357) in the Civil Engineering & Energetics Team, in Strasbourg - France
+- 👨‍🎓 I'm a graduate of the École Centrale de Lyon (general engineering degree) since 2019
+- 🙇‍♂️ I am curious, so I also have a master's degree in philosophy from the University Jean-Moulin Lyon 3 (ethics, ecology and sustainable development)
+- 👨‍🏫 I'm a teacher of physics-chemistry, continuum mechanics and numerical analysis at the INSA Strasbourg engineering school
+- 🚧 My thesis topic is the following : "Study and modeling of multi-cracking of asphalt concrete under repeated dynamic loads using boundary elements method"
 - 📫 You can reach me at victor.desloges@insa-strasbourg.fr
