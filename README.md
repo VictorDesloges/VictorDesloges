@@ -8,11 +8,14 @@
 - 👨‍🏫 I'm a teacher of physics-chemistry, continuum mechanics and numerical analysis at the INSA Strasbourg engineering school
 - 🚧 My thesis is about : "Study and modeling of cracking of asphalt concrete under dynamic loads using boundary elements method"
 - 📫 You can reach me at : victor.desloges@insa-strasbourg.fr
-- 🇱 Here is my LinkedIn : 
+- 🇱 Here is my LinkedIn : https://www.linkedin.com/in/victor-desloges-53a428b7/
+- 🇷 Here is my ResearchGate : https://www.researchgate.net/profile/Victor-Desloges
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 - ICube Laboratory : https://icube.unistra.fr/
 - ED269 MSII : http://ed.math-spi.unistra.fr/
 - INSA Strasbourg : https://www.insa-strasbourg.fr/fr/
+- École Centrale de Lyon : https://www.ec-lyon.fr/
+- Université Lyon 3 : https://www.univ-lyon3.fr/
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
