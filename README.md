@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VictorDesloges
+- 👀 I’m interested in civil engineering, physical and computational sciences
+- 🌱 I’m currently learning Fortran, Medit, GiD, and others stuffs
+- 💞️ I’m looking to collaborate on the development of programs on the boundary element method
+- 📫 You can reach me at victor.desloges@insa-strasbourg.fr
