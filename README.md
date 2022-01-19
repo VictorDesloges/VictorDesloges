@@ -1,3 +1,5 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 - 👋 Hi, I’m @VictorDesloges, a PhD Student of the French doctoral school ED269
 - 👀 I’m interested in civil engineering, physical sciences and of course computer things
 - 🌱 I’m currently learning Fortran, Medit, GiD, and others stuffs
@@ -10,6 +12,7 @@
 - 📫 You can reach me at : victor.desloges@insa-strasbourg.fr
 - 🇱 Here is my LinkedIn : https://www.linkedin.com/in/victor-desloges-53a428b7/
 - 🇷 Here is my ResearchGate : https://www.researchgate.net/profile/Victor-Desloges
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 - ICube Laboratory : https://icube.unistra.fr/
