@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VictorDesloges, a PhD Student of the french doctoral school number 269
+- 👋 Hi, I’m @VictorDesloges, a PhD Student of the French doctoral school ED269
 - 👀 I’m interested in civil engineering, physical sciences and of course computer things
 - 🌱 I’m currently learning Fortran, Medit, GiD, and others stuffs
 - 💌 I’m looking to collaborate on the development of programs on the boundary element method
-- 💻 I'm currently working at the ICube Laboratory (UMR7357) in the Civil Engineering & Energetics Team, in Strasbourg - France
+- 💻 I'm currently working at the ICube Laboratory in the Civil Engineering & Energetics Team, in Strasbourg - France
 - 👨‍🎓 I'm a graduate of the École Centrale de Lyon (general engineering degree) since 2019
 - 🙇‍♂️ I'm curious, so I also have a master's degree in philosophy from the University Lyon 3 (ethics, ecology and sustainable development)
 - 👨‍🏫 I'm a teacher of physics-chemistry, continuum mechanics and numerical analysis at the INSA Strasbourg engineering school
